@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/User-CRUD-Node-React/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/User-CRUD-Node-React/static/js/main.3699b78a.chunk.js",
+    "main.js.map": "/User-CRUD-Node-React/static/js/main.3699b78a.chunk.js.map",
+    "runtime-main.js": "/User-CRUD-Node-React/static/js/runtime-main.eada1d8f.js",
+    "runtime-main.js.map": "/User-CRUD-Node-React/static/js/runtime-main.eada1d8f.js.map",
+    "static/css/2.de424728.chunk.css": "/User-CRUD-Node-React/static/css/2.de424728.chunk.css",
+    "static/js/2.2e753b15.chunk.js": "/User-CRUD-Node-React/static/js/2.2e753b15.chunk.js",
+    "static/js/2.2e753b15.chunk.js.map": "/User-CRUD-Node-React/static/js/2.2e753b15.chunk.js.map",
+    "index.html": "/User-CRUD-Node-React/index.html",
+    "precache-manifest.52c7304c5f7fde8ae60728cf9c2b4c18.js": "/User-CRUD-Node-React/precache-manifest.52c7304c5f7fde8ae60728cf9c2b4c18.js",
+    "service-worker.js": "/User-CRUD-Node-React/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/User-CRUD-Node-React/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/User-CRUD-Node-React/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2e753b15.chunk.js.LICENSE.txt": "/User-CRUD-Node-React/static/js/2.2e753b15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eada1d8f.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.2e753b15.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.3699b78a.chunk.js"
+  ]
+}
